@@ -71,7 +71,7 @@ public class Prettifier {
     // displays usage instructions
     private static void displayUsage() {
         System.out.println("Usage:");
-        System.out.println("$ java Prettifier ./input.txt ./output.txt ./airport-lookup.csv");
+        System.out.println("$ java Prettifier.java ./input.txt ./output.txt ./airport-lookup.csv");
     }
 
     // reads airport lookup data from a CSV file into a nested map
